@@ -1,4 +1,2 @@
 # lovestory
-http://demngayyeu.github.io/lovestory
-
-Tỏ tình phong cách story
+https://j-jrt.github.io/lovestory/
